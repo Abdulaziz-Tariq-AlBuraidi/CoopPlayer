@@ -65,7 +65,6 @@ v
 
 **Layered Structure (Conceptual)**
 
-
 Routes
 ↓
 Controllers
