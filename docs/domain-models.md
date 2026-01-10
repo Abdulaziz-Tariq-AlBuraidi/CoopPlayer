@@ -79,3 +79,29 @@ Represents system notifications sent to users.
 - SessionParticipant links Users and Sessions
 - A Session belongs to one Game
 - A User can receive many Notifications
+
+  ---
+
+## MVP Scope (Initial Release)
+
+The initial MVP focuses on validating the core idea of CoopPlayer:
+helping players commit to and complete co-op gaming sessions reliably.
+
+### Included in MVP
+- User registration & login
+- Game selection
+- Session creation
+- Join session
+- Commitment confirmation
+- Basic session lifecycle (Planned → Active → Completed)
+
+### Future Phases
+Additional features will be implemented incrementally after the core workflow is validated:
+- Notifications & reminders
+- Discord integration
+- Calendar synchronization
+- Reputation & commitment tracking
+- Advanced admin controls
+
+The MVP is intentionally scoped to keep the system simple, focused, and extensible.
+
