@@ -97,6 +97,13 @@ Teams that require punctuality, roles, and coordination.
 **Hosting**
 - Cloud-based (AWS / Vercel – TBD)
 
+## 📐 System Architecture
+
+High-level system architecture and design decisions are documented here:
+
+👉 [View Architecture Documentation](docs/architecture.md)
+
+
 ---
 
 ## 📌 Project Status
