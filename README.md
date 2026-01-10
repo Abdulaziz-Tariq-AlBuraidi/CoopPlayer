@@ -102,7 +102,7 @@ Teams that require punctuality, roles, and coordination.
 
 - [System Architecture](docs/architecture.md)
 - [Domain Models](docs/domain-models.md)
-
+- [System Flow](docs/system-flow.md)
 ---
 
 ## 📌 Project Status
